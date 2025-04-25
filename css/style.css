@@ -108,7 +108,7 @@ h3 {
     font-weight: 700;
     padding-top: 10px;
     font-size:18px;
-    color: #4986a0;
+    color: rgba(50, 48, 48, 0.86);
 }
 
 
@@ -201,7 +201,7 @@ p .center {
 }
 
 #social i:hover {
-	color: #4986a0
+	color: #000
 }
 
 #footerwrap {

@@ -166,7 +166,7 @@ h1 {
     font-weight: 700;
     padding-top: 80px;
     padding-bottom: 4px;
-    color: #408893;
+    color: #000;
     text-align: center;
 }
 
@@ -177,7 +177,7 @@ h3 {
     padding-top: 15px;
     padding-bottom: 15px;
     font-size:19px;
-    color: #408893;
+    color: #000;
     text-align: center;
 }
 
@@ -189,7 +189,7 @@ h6 {
     padding-top: 15px;
     padding-bottom: 15px;
     font-size:15px;
-    color: #408893;
+    color: #000;
     text-align: center;
 }
 
